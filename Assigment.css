@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.card {
+    box-shadow: 8px 6px 15px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-bottom: 15px;
+    border: 80%;
+}
+
+.profile {
+    color: red;
+    background-color: tomato;
+    border-radius: 90%;
+    border: 8px solid blueviolet;
+}
+
+b .img h1 {
+    font-size: 32px;
+}
+
+.about h2 {
+    color: #6460d1;
+    text-align: left;
+    font-size: 17px;
+    margin: 0 2px;
+}
+
+.skill h2 {
+    color: #6587e6;
+    text-align: left;
+}
+
+.skill button {
+    color: white;
+    background-color: #7396f5;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-weight: blod;
+    font-size: 15px;
+}
+
+.hobbies h2 {
+    color: #8985ff;
+}
+
+.hobbies button {
+    padding: 11px;
+    margin: 0 10px;
+    border-radius: 16px;
+    border: none;
+}
